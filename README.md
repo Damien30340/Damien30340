@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damien30340
 - 👀 I'm available and listening to proposals
-- 🌱 I’m currently learning SYMFONY (70%)
+- 🌱 I'm a back-end developer specialized in the Symfony and php framework
 - 💞️ I seek to collaborate on all types of projects
 - 📫 How to reach me ...
   - contact@damiengobert.fr
